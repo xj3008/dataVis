@@ -1,5 +1,8 @@
 .main {
   display: flex;
+  background-color: #696464;
+  height: 1000px;
+  color: #ffffff;
 }
 
 .main-left {
@@ -7,5 +10,5 @@
 }
 
 .main-right {
-  padding-right: 300px;
+  margin-right: 400px;
 }

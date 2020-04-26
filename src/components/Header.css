@@ -1,7 +1,6 @@
 .header {
   height: 60px;
-  background-color: antiquewhite;
+  background-color: #6c7b95;
   text-align: center;
-  padding: 10px auto;
-  align-items: center;
+  color: #ffffff;
 }
